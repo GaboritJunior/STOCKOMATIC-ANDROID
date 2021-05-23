@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StockOmatic</string>
+    <string name="txtLibelleProduit">Libelle du produit</string>
+    <string name="txtPrixProduit">Prix du produit</string>
+    <string name="txtLibelleCategorie">Libelle de la catégorie</string>
+    <string name="txtLibelleInventaire">Libelle de l\'inventaire</string>
+    <string name="menu_produit">Produits</string>
+    <string name="menu_categorie">Categories</string>
+    <string name="menu_inventaire">Inventaires</string>
+    <string name="nom_appli">StockOmatic</string>
+    <string name="action_add_produit">Ajouter un produit</string>
+    <string name="action_add_categorie">Ajouter une catégorie</string>
+    <string name="action_add_inventaire">Ajouter un inventaire</string>
+    <string name="action_produit">Produits</string>
+    <string name="action_categorie">Categories</string>
+    <string name="action_inventaire">Inventaires</string>
+    <string name="action_add_produit_inventaire">Ajouter un produit dans un inventaire</string>
+    <string name="prompt">Scanner un code barre</string>
+</resources>

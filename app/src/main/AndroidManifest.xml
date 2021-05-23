@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.stockomatic">
+
+    <uses-feature android:name="android.hardware.camera2" />
+    <uses-permission-sdk-23 android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission-sdk-23 android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission-sdk-23 android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.StockOmatic">
+        <activity android:name=".ProdInventModif"></activity>
+        <activity android:name=".ProdInventCreate" />
+        <activity android:name=".ProdInventDetail" />
+        <activity android:name=".VueProduitInvent" />
+        <activity android:name=".InventaireModif" />
+        <activity android:name=".CategorieModif" />
+        <activity android:name=".ProduitModif" />
+        <activity android:name=".InventaireCreate" />
+        <activity android:name=".CategorieCreate" />
+        <activity android:name=".ProduitCreate" />
+        <activity android:name=".InventaireDetail" />
+        <activity android:name=".CategorieDetail" />
+        <activity android:name=".VueInventaire" />
+        <activity android:name=".VueCategorie" />
+        <activity android:name=".ProduitDetail" />
+        <activity android:name=".VueProduit" />
+        <activity android:name=".SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

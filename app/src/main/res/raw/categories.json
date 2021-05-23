@@ -1,0 +1,8 @@
+{ "categories": [
+  { "id": "1","libelle":"Mobilier" ,"typeVente":"a l'unité" ,"typeCond":"endroit sec"} ,
+  { "id": "2","libelle":"Bouteille" ,"typeVente":"par pack" ,"typeCond":"endroit sec"},
+  { "id": "3","libelle":"Jouet" ,"typeVente":"a l'unité" ,"typeCond":"endroit sec"},
+  { "id": "4","libelle":"Outillages" ,"typeVente":"a l'unité" ,"typeCond":"a l'abri de l'eau"},
+  { "id": "5","libelle":"Electronique" ,"typeVente":"a l'unité" ,"typeCond":"endroit sec et couvert"},
+  { "id": "6","libelle":"Liquide" ,"typeVente":"au litre" ,"typeCond":"endroit frais"},
+] }

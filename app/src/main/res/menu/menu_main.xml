@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.stockomatic.VueProduit">
+    <item
+        android:id="@+id/action_add_produit"
+        android:orderInCategory="100"
+        android:title="@string/action_add_produit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add_categorie"
+        android:orderInCategory="200"
+        android:title="@string/action_add_categorie"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add_inventaire"
+        android:orderInCategory="300"
+        android:title="@string/action_add_inventaire"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add_produit_inventaire"
+        android:orderInCategory="400"
+        android:title="@string/action_add_produit_inventaire"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_produit"
+        android:orderInCategory="500"
+        android:title="@string/action_produit"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_categorie"
+        android:orderInCategory="600"
+        android:title="@string/action_categorie"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_inventaire"
+        android:orderInCategory="700"
+        android:title="@string/action_inventaire"
+        app:showAsAction="always" />
+</menu>

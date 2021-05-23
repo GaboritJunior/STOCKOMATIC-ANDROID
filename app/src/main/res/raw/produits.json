@@ -1,0 +1,6 @@
+{ "produits": [
+  { "idproduit":"366432001151" , "libelle":"Quezac 1.15L" ,"prix":3.50 ,"description":"Bouteille d'eau gazeuse de 1,15L" ,"idcateg":2 } ,
+  { "idproduit":"4895214" ,"libelle":"Étagére IKEA GLPSTKF" ,"prix":150 ,"description":"Belle etagere en bois" ,"idcateg":1},
+  { "idproduit":"3019123" ,"libelle":"Peluche dragon" ,"prix":5 ,"description":"Peluche dragon attachable sur le bras" ,"idcateg":3 },
+  { "idproduit":"ph317-52" ,"libelle":"Ordinateur portable ACER PREDATOR" ,"prix":1400 ,"description":"Ordinateur portable gamer ACER PREDATOR" ,"idcateg":5 }
+] }

@@ -1,0 +1,32 @@
+{
+  "prodInvent": [
+    {
+      "idproduit": "366432001151",
+      "idinventaire": 1,
+      "libelle": "Quezac 1.15L",
+      "limiteStockAlert": 10,
+      "qteStock": 55
+    },
+    {
+      "idproduit": "3019123",
+      "idinventaire": 1,
+      "libelle": "Peluche dragon",
+      "limiteStockAlert": 50,
+      "qteStock": 50
+    },
+    {
+      "idproduit": "4895214",
+      "idinventaire": 2,
+      "libelle": "Étagére IKEA GLPSTKF",
+      "limiteStockAlert": 10,
+      "qteStock": 8
+    },
+    {
+      "idproduit": "ph317-52",
+      "idinventaire": 2,
+      "libelle": "Ordinateur portable ACER PREDATOR",
+      "limiteStockAlert": 2,
+      "qteStock": 0
+    }
+  ]
+}
